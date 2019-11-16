@@ -1,0 +1,5 @@
+scp -P 18058 -r <folder> sarmishta@0.tcp.ngrok.io:~/Desktop/fastMRI
+
+type yes for adding the ngrok thing to known hosts
+
+enter password: newpass@5252744
